@@ -7,3 +7,7 @@
 * Variables and Names
 * More Variables and Printing
 * Strings and Text
+* More Printing
+* Printing, Printing
+* Printing, Printing, Printing
+* What was that?
